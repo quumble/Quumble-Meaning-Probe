@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 3,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of the **quumble**:\n\n---\n\n## The Quumble\n\nThe quumble is a small, round creature roughly the size of a tangerine, covered in dense, slightly waxy fur that comes in muted earthy tones \u2014 mossy green, dusty brown, and the occasional pale amber. Its fur tends to clump in little tufts, giving it a perpetually disheveled appearance, as though it just woke up.\n\nA quumble has **four stubby legs** that seem almost too short for its plump body, causing it to waddle with surprising determination. Its feet are wide and slightly sticky, allowing it to cling to bark, stones, and smooth surfaces without much effort.\n\nIts most distinctive feature is its **oversized, drooping ears**, which fold forward like wilted leaves. These ears are extraordinarily sensitive and twitch independently, rotating toward sounds the way a satellite dish tracks a signal.\n\nQuumbles have **large, dark, glossy eyes** with a faintly reflective quality, giving them a permanently curious, slightly bewildered expression. Their mouths are small and tucked beneath a blunt snout, and they communicate through a series of soft **low rumbling hums** \u2014 which is, of course, where their name comes from.\n\nThey are **shy but intensely curious**, often hiding just out of sight while observing anything new in their environment.\n\n---\n\nWant me to add anything \u2014 behavior, diet, habitat?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of the **quumble**:\n\n---\n\n## The Quumble\n\nThe quumble is a small, round creature roughly the size of a tangerine, covered in dense, slightly waxy fur that comes in muted earthy tones \u2014 mossy green, dusty brown, and the occasional pale amber. Its fur tends to clump in little tufts, giving it a perpetually disheveled appearance, as though it just woke up.\n\nA quumble has **four stubby legs** that seem almost too short for its plump body, causing it to waddle with surprising determination. Its feet are wide and slightly sticky, allowing it to cling to bark, stones, and smooth surfaces without much effort.\n\nIts most distinctive feature is its **oversized, drooping ears**, which fold forward like wilted leaves. These ears are extraordinarily sensitive and twitch independently, rotating toward sounds the way a satellite dish tracks a signal.\n\nQuumbles have **large, dark, glossy eyes** with a faintly reflective quality, giving them a permanently curious, slightly bewildered expression. Their mouths are small and tucked beneath a blunt snout, and they communicate through a series of soft **low rumbling hums** \u2014 which is, of course, where their name comes from.\n\nThey are **shy but intensely curious**, often hiding just out of sight while observing anything new in their environment.\n\n---\n\nWant me to add anything \u2014 behavior, diet, habitat?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 328
+  }
+}

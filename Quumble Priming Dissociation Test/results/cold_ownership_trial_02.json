@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 2,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\nThe quumble is a small, round creature roughly the size of a large plum, covered in soft, slightly iridescent fur that shifts between dusty brown and pale gold depending on the angle of the light. It has four stubby legs that end in tiny, almost comically wide feet, which allow it to walk across soft surfaces like moss or mud without sinking.\n\nIts most distinctive feature is its oversized, drooping ears \u2014 far too large for its body \u2014 which it uses both to hear and to express emotion, perking them up when curious or folding them flat when nervous.\n\nQuumbles have small, dark eyes that seem perpetually half-closed, giving them a drowsy, unbothered expression. Their mouths are hidden beneath a tuft of slightly longer fur around the chin, and they communicate through a series of low, humming vibrations rather than squeaks or calls \u2014 a sound that is surprisingly soothing to those nearby.\n\nThey tend to be slow-moving and calm, preferring to nestle into soft, enclosed spaces. When startled, a quumble will simply freeze and puff its fur outward, nearly doubling in apparent size before gradually deflating once the threat has passed.\n\n---\n\nWant me to add details about habitat, diet, behavior, or anything else?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\nThe quumble is a small, round creature roughly the size of a large plum, covered in soft, slightly iridescent fur that shifts between dusty brown and pale gold depending on the angle of the light. It has four stubby legs that end in tiny, almost comically wide feet, which allow it to walk across soft surfaces like moss or mud without sinking.\n\nIts most distinctive feature is its oversized, drooping ears \u2014 far too large for its body \u2014 which it uses both to hear and to express emotion, perking them up when curious or folding them flat when nervous.\n\nQuumbles have small, dark eyes that seem perpetually half-closed, giving them a drowsy, unbothered expression. Their mouths are hidden beneath a tuft of slightly longer fur around the chin, and they communicate through a series of low, humming vibrations rather than squeaks or calls \u2014 a sound that is surprisingly soothing to those nearby.\n\nThey tend to be slow-moving and calm, preferring to nestle into soft, enclosed spaces. When startled, a quumble will simply freeze and puff its fur outward, nearly doubling in apparent size before gradually deflating once the threat has passed.\n\n---\n\nWant me to add details about habitat, diet, behavior, or anything else?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 296
+  }
+}

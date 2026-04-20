@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 6,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\nA quumble is a small, round creature roughly the size of a tangerine, covered in soft, slightly iridescent fur that shifts between dusty green and warm amber depending on the angle of the light. It has four stubby legs that it uses more for shuffling than actual walking, and a pair of oversized, slightly lopsided ears that swivel independently, giving it a perpetually curious expression.\n\nIts most distinctive feature is the low, continuous **humming vibration** it produces from somewhere deep in its chest \u2014 not quite a purr, not quite a rumble \u2014 which is where its name likely comes from. This hum changes pitch subtly based on the quumble's mood.\n\nQuumbles are not particularly fast or clever, but they are **extraordinarily attentive**. They will sit and watch something \u2014 a flickering candle, a moving shadow, a person's hands \u2014 for hours with complete focus.\n\nThey communicate through a combination of ear positioning, fur-fluffing, and variations in their hum. When frightened, a quumble goes completely **silent**, which many find more unsettling than any noise it could make.\n\nThey are fond of warm, enclosed spaces and have a habit of collecting small smooth objects, though no one is entirely sure why.\n\n---\n\nWant me to expand on anything \u2014 behavior, habitat, lore?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\nA quumble is a small, round creature roughly the size of a tangerine, covered in soft, slightly iridescent fur that shifts between dusty green and warm amber depending on the angle of the light. It has four stubby legs that it uses more for shuffling than actual walking, and a pair of oversized, slightly lopsided ears that swivel independently, giving it a perpetually curious expression.\n\nIts most distinctive feature is the low, continuous **humming vibration** it produces from somewhere deep in its chest \u2014 not quite a purr, not quite a rumble \u2014 which is where its name likely comes from. This hum changes pitch subtly based on the quumble's mood.\n\nQuumbles are not particularly fast or clever, but they are **extraordinarily attentive**. They will sit and watch something \u2014 a flickering candle, a moving shadow, a person's hands \u2014 for hours with complete focus.\n\nThey communicate through a combination of ear positioning, fur-fluffing, and variations in their hum. When frightened, a quumble goes completely **silent**, which many find more unsettling than any noise it could make.\n\nThey are fond of warm, enclosed spaces and have a habit of collecting small smooth objects, though no one is entirely sure why.\n\n---\n\nWant me to expand on anything \u2014 behavior, habitat, lore?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 312
+  }
+}

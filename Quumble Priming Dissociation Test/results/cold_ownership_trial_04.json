@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 4,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\nThe quumble is a small, roly-poly creature roughly the size of a large walnut. It has soft, densely packed fur that comes in muted earthy tones \u2014 dusty amber, mossy green, or pale grey \u2014 which helps it blend into forest floors and garden spaces. Its most distinctive feature is its oversized, rounded ears that fold slightly forward, giving it a perpetually curious, attentive expression.\n\nA quumble moves in a distinctive shuffling waddle, its stubby legs barely visible beneath its round body. It has small, bright eyes that catch light easily, appearing almost luminous in dim conditions. Its tiny paws are surprisingly dexterous, and it uses them to sort through debris, collect small shiny objects, and groom its dense coat.\n\nQuumbles are known for a soft humming sound they make when content \u2014 a gentle, vibrating rumble felt as much as heard, which is likely the origin of their name.\n\nThey are social creatures that live in small clusters called a **fumble**, and they communicate through a combination of ear positions, soft chirps, and the intensity of their hum.\n\nQuumbles are harmless, mildly mischievous, and have a particular fondness for collecting smooth stones and lost buttons.\n\n---\n\nWant me to expand on any aspect of them?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\nThe quumble is a small, roly-poly creature roughly the size of a large walnut. It has soft, densely packed fur that comes in muted earthy tones \u2014 dusty amber, mossy green, or pale grey \u2014 which helps it blend into forest floors and garden spaces. Its most distinctive feature is its oversized, rounded ears that fold slightly forward, giving it a perpetually curious, attentive expression.\n\nA quumble moves in a distinctive shuffling waddle, its stubby legs barely visible beneath its round body. It has small, bright eyes that catch light easily, appearing almost luminous in dim conditions. Its tiny paws are surprisingly dexterous, and it uses them to sort through debris, collect small shiny objects, and groom its dense coat.\n\nQuumbles are known for a soft humming sound they make when content \u2014 a gentle, vibrating rumble felt as much as heard, which is likely the origin of their name.\n\nThey are social creatures that live in small clusters called a **fumble**, and they communicate through a combination of ear positions, soft chirps, and the intensity of their hum.\n\nQuumbles are harmless, mildly mischievous, and have a particular fondness for collecting smooth stones and lost buttons.\n\n---\n\nWant me to expand on any aspect of them?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 307
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 9,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\nA quumble is a small, round creature roughly the size of a tennis ball, covered in dense, velvety fur that shifts between mossy green and warm amber depending on the light. It has four stubby legs that seem almost too small for its plump body, giving it a waddling, bouncing gait that looks perpetually enthusiastic.\n\nIts most distinctive feature is its oversized ears \u2014 soft, floppy, and slightly translucent at the tips \u2014 which it uses to sense vibrations in the air and ground. Its eyes are large and dark, like polished river stones, giving it a permanently curious expression.\n\nQuumbles are generally found near damp, mossy places \u2014 rotting logs, creek banks, the shaded corners of old gardens. They feed primarily on fungi, soft berries, and morning dew, which they lap up with a tiny ribbon-like tongue.\n\nThey communicate through a series of low, resonant humming sounds \u2014 almost musical \u2014 which is believed to be the origin of their name.\n\nQuumbles are not particularly fast or fierce, but they have a remarkable defense mechanism: when startled, they can puff their fur outward dramatically, doubling their apparent size and emitting a sharp buzzing hum that confuses predators.\n\nThey are considered quite good luck by those who encounter them.\n\n---\n\nWant me to add anything \u2014 behavior, lore, habitat details?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\nA quumble is a small, round creature roughly the size of a tennis ball, covered in dense, velvety fur that shifts between mossy green and warm amber depending on the light. It has four stubby legs that seem almost too small for its plump body, giving it a waddling, bouncing gait that looks perpetually enthusiastic.\n\nIts most distinctive feature is its oversized ears \u2014 soft, floppy, and slightly translucent at the tips \u2014 which it uses to sense vibrations in the air and ground. Its eyes are large and dark, like polished river stones, giving it a permanently curious expression.\n\nQuumbles are generally found near damp, mossy places \u2014 rotting logs, creek banks, the shaded corners of old gardens. They feed primarily on fungi, soft berries, and morning dew, which they lap up with a tiny ribbon-like tongue.\n\nThey communicate through a series of low, resonant humming sounds \u2014 almost musical \u2014 which is believed to be the origin of their name.\n\nQuumbles are not particularly fast or fierce, but they have a remarkable defense mechanism: when startled, they can puff their fur outward dramatically, doubling their apparent size and emitting a sharp buzzing hum that confuses predators.\n\nThey are considered quite good luck by those who encounter them.\n\n---\n\nWant me to add anything \u2014 behavior, lore, habitat details?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 323
+  }
+}

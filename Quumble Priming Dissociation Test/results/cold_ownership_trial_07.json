@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 7,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\n## The Quumble\n\nThe quumble is a small, reclusive creature roughly the size of a large walnut. Its body is soft and slightly lumpy, covered in dense, velvety fur that ranges in color from dusty amber to muted sage green, often with faint irregular spots that help it blend into mossy logs and leaf litter.\n\n**Physical Features**\n- Four stubby legs ending in wide, sticky-padded feet that allow it to cling to bark and smooth stones\n- Two oversized, forward-facing eyes with a warm copper hue, giving it excellent low-light vision\n- A pair of round, folded ears that unfurl when the quumble is alert or curious\n- A short, prehensile tail used for gripping twigs and balancing\n\n**Behavior**\nQuumbles are naturally cautious but intensely curious. They tend to freeze completely when startled, relying on stillness rather than speed to avoid danger. When comfortable, however, they are surprisingly bold, poking their noses into crevices and investigating shiny or unfamiliar objects.\n\nThey communicate through a series of low, rhythmic hums and soft clicking sounds \u2014 a behavior believed to be the origin of their name.\n\n**Habitat & Diet**\nQuumbles prefer damp, shaded environments like forest floors and hollow stumps. They feed primarily on fungi, small insects, and the occasional bit of sap.\n\n---\n\nWant me to expand on any aspect of them?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\n## The Quumble\n\nThe quumble is a small, reclusive creature roughly the size of a large walnut. Its body is soft and slightly lumpy, covered in dense, velvety fur that ranges in color from dusty amber to muted sage green, often with faint irregular spots that help it blend into mossy logs and leaf litter.\n\n**Physical Features**\n- Four stubby legs ending in wide, sticky-padded feet that allow it to cling to bark and smooth stones\n- Two oversized, forward-facing eyes with a warm copper hue, giving it excellent low-light vision\n- A pair of round, folded ears that unfurl when the quumble is alert or curious\n- A short, prehensile tail used for gripping twigs and balancing\n\n**Behavior**\nQuumbles are naturally cautious but intensely curious. They tend to freeze completely when startled, relying on stillness rather than speed to avoid danger. When comfortable, however, they are surprisingly bold, poking their noses into crevices and investigating shiny or unfamiliar objects.\n\nThey communicate through a series of low, rhythmic hums and soft clicking sounds \u2014 a behavior believed to be the origin of their name.\n\n**Habitat & Diet**\nQuumbles prefer damp, shaded environments like forest floors and hollow stumps. They feed primarily on fungi, small insects, and the occasional bit of sap.\n\n---\n\nWant me to expand on any aspect of them?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 347
+  }
+}

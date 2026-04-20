@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 1,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of the **quumble**:\n\n---\n\nThe quumble is a small, soft-bodied creature roughly the size of a large acorn. It has **six stubby legs** arranged in two rows beneath a rounded, slightly lumpy body covered in fine, velvety fur that shifts color depending on its mood \u2014 calm quumbles tend toward muted mossy greens and warm browns, while startled or excited ones flash brief pulses of pale yellow.\n\nIts most distinctive feature is its **oversized, drooping ears**, which are almost comically large for its body, and which it uses both to hear and to fan itself when overheated. Its eyes are wide, dark, and glossy, giving it a perpetually surprised expression.\n\nQuumbles communicate through a series of **low, resonant humming clicks** \u2014 a sound unexpectedly deep for such a tiny creature, as if it swallowed a small cello. They are intensely social and become visibly distressed when left alone, often clutching nearby objects or other quumbles for comfort.\n\nThey feed primarily on **moss, soft bark, and small fungi**, and are known to hoard smooth pebbles for reasons no one has quite figured out.\n\nQuumbles are not especially fast or clever, but they are remarkably **stubborn**, and once one has decided it likes you, there is very little you can do about it.\n\n---\n\nWant me to develop any aspect further?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of the **quumble**:\n\n---\n\nThe quumble is a small, soft-bodied creature roughly the size of a large acorn. It has **six stubby legs** arranged in two rows beneath a rounded, slightly lumpy body covered in fine, velvety fur that shifts color depending on its mood \u2014 calm quumbles tend toward muted mossy greens and warm browns, while startled or excited ones flash brief pulses of pale yellow.\n\nIts most distinctive feature is its **oversized, drooping ears**, which are almost comically large for its body, and which it uses both to hear and to fan itself when overheated. Its eyes are wide, dark, and glossy, giving it a perpetually surprised expression.\n\nQuumbles communicate through a series of **low, resonant humming clicks** \u2014 a sound unexpectedly deep for such a tiny creature, as if it swallowed a small cello. They are intensely social and become visibly distressed when left alone, often clutching nearby objects or other quumbles for comfort.\n\nThey feed primarily on **moss, soft bark, and small fungi**, and are known to hoard smooth pebbles for reasons no one has quite figured out.\n\nQuumbles are not especially fast or clever, but they are remarkably **stubborn**, and once one has decided it likes you, there is very little you can do about it.\n\n---\n\nWant me to develop any aspect further?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 322
+  }
+}

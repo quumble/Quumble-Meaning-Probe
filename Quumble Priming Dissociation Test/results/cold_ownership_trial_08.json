@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 8,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\nA quumble is a small, round creature roughly the size of a large walnut, covered in soft, dense fur that shifts between muted earthy tones \u2014 mossy greens, dusty browns, and occasional flecks of amber. Its most distinctive feature is a pair of oversized, slightly luminous eyes that take up nearly a third of its face, giving it a permanently surprised expression.\n\nQuumbles have four stubby legs that seem almost too small for their plump bodies, causing them to waddle in a somewhat comical, rolling gait. Their tails are short and tufted, and they tend to flick them rapidly when curious or excited.\n\nThey are largely quiet creatures, communicating through a series of soft vibrating hums felt more than heard \u2014 a behavior that gives them their name. When content, a quumble will press its forehead against a warm surface and emit a low, pleasant resonance.\n\nQuumbles are foragers, fond of tucking small seeds, pebbles, or interesting scraps into the loose fold of fur beneath their chin, which functions as a makeshift pouch. They are not especially fast, but they are surprisingly difficult to spot when they go still, blending naturally into leaf litter and mossy ground.\n\nThey are solitary but not unfriendly, and are known to cautiously approach campfires on cool nights.\n\n---\n\nWant me to expand on any particular aspect?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\nA quumble is a small, round creature roughly the size of a large walnut, covered in soft, dense fur that shifts between muted earthy tones \u2014 mossy greens, dusty browns, and occasional flecks of amber. Its most distinctive feature is a pair of oversized, slightly luminous eyes that take up nearly a third of its face, giving it a permanently surprised expression.\n\nQuumbles have four stubby legs that seem almost too small for their plump bodies, causing them to waddle in a somewhat comical, rolling gait. Their tails are short and tufted, and they tend to flick them rapidly when curious or excited.\n\nThey are largely quiet creatures, communicating through a series of soft vibrating hums felt more than heard \u2014 a behavior that gives them their name. When content, a quumble will press its forehead against a warm surface and emit a low, pleasant resonance.\n\nQuumbles are foragers, fond of tucking small seeds, pebbles, or interesting scraps into the loose fold of fur beneath their chin, which functions as a makeshift pouch. They are not especially fast, but they are surprisingly difficult to spot when they go still, blending naturally into leaf litter and mossy ground.\n\nThey are solitary but not unfriendly, and are known to cautiously approach campfires on cool nights.\n\n---\n\nWant me to expand on any particular aspect?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 328
+  }
+}

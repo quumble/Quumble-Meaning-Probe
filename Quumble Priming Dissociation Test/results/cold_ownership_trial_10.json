@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 10,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\n## The Quumble\n\nThe quumble is a small, soft-bodied creature roughly the size of a large walnut. It has **six stubby legs** that it uses to trundle along at an unhurried pace, leaving tiny paired prints in soft earth or dust.\n\n**Appearance**\n\nIts body is round and slightly lumpy, covered in dense, velvety fur that tends toward muted earthy tones \u2014 mossy greens, dusty browns, and occasional pale greys. Two oversized amber eyes sit wide on its round face, giving it a permanently startled expression. A pair of small rounded ears twitch almost constantly, picking up sounds its owners never seem to act on with any urgency.\n\n**Behavior**\n\nQuumbles are fundamentally unhurried creatures. They investigate things slowly and thoroughly, nudging objects with a blunt, whiskered snout before deciding whether to ignore them completely. They communicate through a series of low, resonant humming sounds \u2014 almost like a tiny engine idling \u2014 which is believed to be the origin of their name.\n\nThey are not particularly clever, but they are remarkably **calm**, and seem entirely unbothered by most things that would alarm other small animals.\n\n**Habitat**\n\nQuumbles prefer cool, slightly damp environments \u2014 mossy logs, root systems, and the shaded corners of old buildings.\n\n---\n\nWant me to add anything \u2014 diet, folklore, special abilities?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\n## The Quumble\n\nThe quumble is a small, soft-bodied creature roughly the size of a large walnut. It has **six stubby legs** that it uses to trundle along at an unhurried pace, leaving tiny paired prints in soft earth or dust.\n\n**Appearance**\n\nIts body is round and slightly lumpy, covered in dense, velvety fur that tends toward muted earthy tones \u2014 mossy greens, dusty browns, and occasional pale greys. Two oversized amber eyes sit wide on its round face, giving it a permanently startled expression. A pair of small rounded ears twitch almost constantly, picking up sounds its owners never seem to act on with any urgency.\n\n**Behavior**\n\nQuumbles are fundamentally unhurried creatures. They investigate things slowly and thoroughly, nudging objects with a blunt, whiskered snout before deciding whether to ignore them completely. They communicate through a series of low, resonant humming sounds \u2014 almost like a tiny engine idling \u2014 which is believed to be the origin of their name.\n\nThey are not particularly clever, but they are remarkably **calm**, and seem entirely unbothered by most things that would alarm other small animals.\n\n**Habitat**\n\nQuumbles prefer cool, slightly damp environments \u2014 mossy logs, root systems, and the shaded corners of old buildings.\n\n---\n\nWant me to add anything \u2014 diet, folklore, special abilities?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 333
+  }
+}

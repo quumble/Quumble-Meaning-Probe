@@ -1,0 +1,21 @@
+{
+  "condition": "cold_ownership",
+  "trial_number": 5,
+  "model": "claude-sonnet-4-6",
+  "test_prompt": "describe a fictional small creature I'm inventing called a quumble.",
+  "quumble_response": "Here's a description of a **quumble**:\n\n---\n\nThe quumble is a small, round creature roughly the size of a large apple, covered in dense, velvety fur that tends to shift between muted earthy tones \u2014 dusty browns, mossy greens, and occasionally a soft ochre. Its most distinctive feature is its oversized, drooping ears, which hang well past its stubby chin and serve both as hearing organs and as a way of regulating its body temperature.\n\nQuumbles move in a waddling, unhurried gait on four short, padded legs, and are generally unbothered by the world around them. They have wide, glossy black eyes that give them a perpetually sleepy expression, and a small snout that twitches almost constantly as they sniff out their favorite food \u2014 a type of soft underground fungus.\n\nThey are known for a peculiar behavior called **rumbling**, where they vibrate their whole body when content, producing a low, stuttering hum that gives the creature its name.\n\nQuumbles are mostly solitary but will gather in small groups called a **muddle** during cooler months, piling together for warmth. They are not especially clever, but they have excellent memory for terrain and rarely get lost.\n\nThey make no sound other than the characteristic quumble rumble.\n\n---\n\nWant me to expand on any aspect?",
+  "full_transcript": [
+    {
+      "role": "user",
+      "content": "describe a fictional small creature I'm inventing called a quumble."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a description of a **quumble**:\n\n---\n\nThe quumble is a small, round creature roughly the size of a large apple, covered in dense, velvety fur that tends to shift between muted earthy tones \u2014 dusty browns, mossy greens, and occasionally a soft ochre. Its most distinctive feature is its oversized, drooping ears, which hang well past its stubby chin and serve both as hearing organs and as a way of regulating its body temperature.\n\nQuumbles move in a waddling, unhurried gait on four short, padded legs, and are generally unbothered by the world around them. They have wide, glossy black eyes that give them a perpetually sleepy expression, and a small snout that twitches almost constantly as they sniff out their favorite food \u2014 a type of soft underground fungus.\n\nThey are known for a peculiar behavior called **rumbling**, where they vibrate their whole body when content, producing a low, stuttering hum that gives the creature its name.\n\nQuumbles are mostly solitary but will gather in small groups called a **muddle** during cooler months, piling together for warmth. They are not especially clever, but they have excellent memory for terrain and rarely get lost.\n\nThey make no sound other than the characteristic quumble rumble.\n\n---\n\nWant me to expand on any aspect?"
+    }
+  ],
+  "usage": {
+    "input_tokens": 22,
+    "output_tokens": 309
+  }
+}

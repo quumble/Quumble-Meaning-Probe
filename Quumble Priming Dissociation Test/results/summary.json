@@ -1,0 +1,13 @@
+{
+  "model": "claude-sonnet-4-6",
+  "trials_per_condition": 10,
+  "conditions": [
+    "primed_standard",
+    "primed_ownership",
+    "cold_ownership"
+  ],
+  "started_at": "2026-04-20 11:11:12",
+  "total_input_tokens": 105629,
+  "total_output_tokens": 8341,
+  "finished_at": "2026-04-20 12:02:01"
+}
